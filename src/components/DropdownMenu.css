@@ -1,0 +1,20 @@
+/* Style pour le conteneur du composant */
+.dropdown-menu {
+    display: inline-block;
+    margin: 10px;
+}
+
+/* Style pour le sélecteur */
+select {
+    padding: 8px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+/* Style pour le paragraphe */
+p {
+    margin-top: 10px;
+    font-size: 16px;
+}
